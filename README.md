@@ -1,13 +1,3 @@
-<div id="badges">
-  <img src="https://img.shields.io/badge/VK-blue?style=flat&logo=vk&logoWidth=19&link=https://vk.com/only_yours2021"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-- 👋 Hi, I’m @DarkeEvens
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DarkeEvens/DarkeEvens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
