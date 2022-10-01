@@ -5,8 +5,8 @@
   <a>
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoWidth=19&link=https://vk.com/only_yours2021" alt="VK Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoWidth=19&link=https://t.me/only_yours2000" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
