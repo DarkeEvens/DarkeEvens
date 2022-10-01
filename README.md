@@ -11,6 +11,6 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-<div id="schetchik" align="cente
+<div id="schetchik" align="center">
 <img src="https://komarev.com/ghpvc/?username=DarkeEvens&style=flat-square&color=blue" alt="" align="center"/>
 </div>
