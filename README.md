@@ -1,5 +1,5 @@
 <div id="badges">
-  <img src="https://img.shields.io/badge/VK-blue?style=flat&logo=vk&logoWidth=19&link=https://vk.com/only_yours2021 alt="VK Badge"/>
+  <img src="https://img.shields.io/badge/VK-blue?style=flat&logo=vk&logoWidth=19&link=https://vk.com/only_yours2021"/>
 </div>
 - 👋 Hi, I’m @DarkeEvens
 - 👀 I’m interested in ...
