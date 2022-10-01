@@ -30,4 +30,4 @@
     ---
 
 ### :fire: My Stats :
-    http://github-readme-streak-stats.herokuapp.com?user=DarkeEvens&theme=dark&background=000000
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarkeEvens&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
